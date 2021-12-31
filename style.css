@@ -1,0 +1,36 @@
+body{
+    background-color: #a5cefa;
+}
+.heading{
+    color:white;
+    background-color:#164373;
+    width: 95%;
+    font-size: 18px;
+    margin:0;
+    box-shadow: 10px 10px 10px white;
+}
+#start_btn{
+    background-color: #6150b5;
+    color:white;
+}
+h4{
+    background-color: #50b2b5;
+    color:white;
+    width:50%;
+}
+
+.copy_right_footer{
+    background-color:#164373 ;
+    width: 100%;
+    text-align: center;
+    color:white;
+    bottom:0;
+    position:fixed;
+    line-height: 1.75;
+}
+canvas{
+    border-style:dotted;
+    border-color: white;
+    margin-top:130px;
+    border-width: 2px;
+}
